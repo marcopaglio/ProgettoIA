@@ -9,3 +9,6 @@ Per verificare il funzionamento è sufficiente agire su pochi parametri:
 Si consideri che k aumenta di un'unità, mentre l'incremento di n è esponenziale e definito dal parametro stepN (situato nella prima riga di codice del main()).
 
 N.B: stepN è replicato anche nella parte finale (riga 143) per mostrare i dati mediante grafici, la modifica deve essere concorde per entrambi i valori.
+
+
+Il linguaggio Python non è ottimale per implementare tale progetto a causa del gran numero di cicli. Provvederò il prima possibile alla scrittura in C++.
